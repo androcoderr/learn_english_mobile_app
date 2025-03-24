@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "ENG": "What's up?",
+    "TR": "Naber?"
+  },
+  {
+    "id": 2,
+    "ENG": "So so",
+    "TR": "İdare eder."
+  },
+  {
+    "id": 3,
+    "ENG": "How is it going?",
+    "TR": "Nasıl gidiyor?"
+  },
+  {
+    "id": 4,
+    "ENG": "Let's go!",
+    "TR": "Haydi gidelim!"
+  },
+  {
+    "id": 5,
+    "ENG": "Let's go on!",
+    "TR": "Devam edelim!"
+  },
+  {
+    "id": 6,
+    "ENG": "Give me a hand!",
+    "TR": "Yardım et, bir el at!"
+  },
+  {
+    "id": 7,
+    "ENG": "I will see to it!",
+    "TR": "İlgileneceğim, bakacağım."
+  },
+  {
+    "id": 8,
+    "ENG": "Get out of here!",
+    "TR": "Defol buradan!"
+  },
+  {
+    "id": 9,
+    "ENG": "My head is killing me!",
+    "TR": "Başım beni öldürüyor!"
+  },
+  {
+    "id": 10,
+    "ENG": "What a beatiful girl!",
+    "TR": "Ne güzel bir kız!"
+  },
+  {
+    "id": 11,
+    "ENG": "I am broke!",
+    "TR": "Parasızım!"
+  },
+  {
+    "id": 12,
+    "ENG": "I am hungry!",
+    "TR": "Açım!"
+  },
+  {
+    "id": 13,
+    "ENG": "I am starving!",
+    "TR": "Açlıktan ölüyorum!"
+  },
+  {
+    "id": 14,
+    "ENG": "Don't get me wrong!",
+    "TR": "Beni yanlış anlama!"
+  },
+  {
+    "id": 15,
+    "ENG": "It sounds good!",
+    "TR": "Kulağa hoş geliyor!"
+  },
+  {
+    "id": 16,
+    "ENG": "It is beyond me!",
+    "TR": "Bu beni aşar!"
+  },
+  {
+    "id": 17,
+    "ENG": "It is up to you!",
+    "TR": "Sana bağlı, sen bilirsin."
+  },
+  {
+    "id": 18,
+    "ENG": "You can trust me!",
+    "TR": "Bana güvenebilirsin!"
+  },
+  {
+    "id": 19,
+    "ENG": "Lets get to the point!",
+    "TR": "Sadede gelelim!"
+  },
+  {
+    "id": 20,
+    "ENG": "Guess what!",
+    "TR": "Bil bakalım!"
+  },
+  {
+    "id": 21,
+    "ENG": "I am out of condition!",
+    "TR": "Formdan düştüm!"
+  },
+  {
+    "id": 22,
+    "ENG": "My battery is dead.",
+    "TR": "Şarjım bitti."
+  },
+  {
+    "id": 23,
+    "ENG": "My battery is low.",
+    "TR": "Şarjım az kaldı."
+  },
+  {
+    "id": 24,
+    "ENG": "You know what!",
+    "TR": "Ne diyeceğimi biliyorsun!"
+  },
+  {
+    "id": 25,
+    "ENG": "It is better than nothing!",
+    "TR": "Hiç yoktan iyidir!"
+  },
+  {
+    "id": 26,
+    "ENG": "I'll get the phone/door!",
+    "TR": "Kapıya, telefona ben bakarım."
+  },
+  {
+    "id": 27,
+    "ENG": "It's my turn!",
+    "TR": "Benim sıram!"
+  },
+  {
+    "id": 28,
+    "ENG": "It doesn't matter!",
+    "TR": "Sorun değil!"
+  },
+  {
+    "id": 29,
+    "ENG": "You are welcome.",
+    "TR": "Rica ederim."
+  },
+  {
+    "id": 30,
+    "ENG": "Long time no see!",
+    "TR": "Görüşmeyeli uzun zaman oldu!"
+  },
+  {
+    "id": 31,
+    "ENG": "Long time no talk!",
+    "TR": "Konuşmayalı uzun zaman oldu!"
+  },
+  {
+    "id": 32,
+    "ENG": "Do you wanna hangout?",
+    "TR": "Takılmak ister misin?"
+  },
+  {
+    "id": 33,
+    "ENG": "Let's hangout tonigh!",
+    "TR": "Bu gece buluşalım."
+  },
+  {
+    "id": 34,
+    "ENG": "I hope so!",
+    "TR": "Öyle umuyorum."
+  },
+  {
+    "id": 35,
+    "ENG": "I have no idea!",
+    "TR": "Hiçbir fikrim yok!"
+  },
+  {
+    "id": 36,
+    "ENG": "Let's meet!",
+    "TR": "Buluşalım."
+  },
+  {
+    "id": 37,
+    "ENG": "You don't look your age!",
+    "TR": "Yaşını göstermiyorsun!"
+  },
+  {
+    "id": 38,
+    "ENG": "We are safe and sound!",
+    "TR": "Güvendeyiz."
+  },
+  {
+    "id": 39,
+    "ENG": "Don't piss me of!",
+    "TR": "Beni kızdırma!"
+  },
+  {
+    "id": 40,
+    "ENG": "Get well soon!",
+    "TR": "Geçmiş olsun!"
+  },
+  {
+    "id": 41,
+    "ENG": "I lost my temper!",
+    "TR": "Sinirlerim bozuldu!"
+  },
+  {
+    "id": 42,
+    "ENG": "Make yourself at home!",
+    "TR": "Kendini evinde hisset!"
+  },
+  {
+    "id": 43,
+    "ENG": "Hurry up!",
+    "TR": "Acele et!"
+  },
+  {
+    "id": 44,
+    "ENG": "Calm down!",
+    "TR": "Sakin ol!"
+  },
+  {
+    "id": 45,
+    "ENG": "Help yourself.",
+    "TR": "Buyrun?"
+  },
+  {
+    "id": 46,
+    "ENG": "In my opinion…",
+    "TR": "Benim düşünceme göre…"
+  },
+  {
+    "id": 47,
+    "ENG": "I dont mind!",
+    "TR": "Benim için fark etmez!"
+  },
+  {
+    "id": 48,
+    "ENG": "Do you know each other?",
+    "TR": "Birbirinizi tanıyor musunuz?"
+  },
+  {
+    "id": 49,
+    "ENG": "Are you on facebook?",
+    "TR": "Facebook'un var mı?"
+  },
+  {
+    "id": 50,
+    "ENG": "What brings you to here?",
+    "TR": "Seni buraya getiren nedir?"
+  },
+  {
+    "id": 51,
+    "ENG": "Dont blame me!",
+    "TR": "Beni suçlama!"
+  },
+  {
+    "id": 52,
+    "ENG": "I am in love her/him!",
+    "TR": "Ona aşığım."
+  },
+  {
+    "id": 53,
+    "ENG": "I am in touch with Sally!",
+    "TR": "Sally ile hala görüşüyorum."
+  },
+  {
+    "id": 54,
+    "ENG": "I have an idea.",
+    "TR": "Bir fikrim var."
+  },
+  {
+    "id": 55,
+    "ENG": "I have hands full now.",
+    "TR": "Şu an ellerim dolu."
+  },
+  {
+    "id": 56,
+    "ENG": "My room is an a mess.",
+    "TR": "Odam çok dağınık."
+  },
+  {
+    "id": 57,
+    "ENG": "Are you kidding?",
+    "TR": "Şaka mı yapıyorsun?"
+  },
+  {
+    "id": 58,
+    "ENG": "As soon as possible",
+    "TR": "Mümkün olan en kısa sürede."
+  },
+  {
+    "id": 59,
+    "ENG": "By the way",
+    "TR": "Bu arada"
+  },
+  {
+    "id": 60,
+    "ENG": "Do me a favor",
+    "TR": "Bana bir iyilik yap."
+  },
+  {
+    "id": 61,
+    "ENG": "She can't take a joke.",
+    "TR": "O şaka kaldırmaz."
+  },
+  {
+    "id": 62,
+    "ENG": "I am his/her fan.",
+    "TR": "Onun hayranıyım."
+  },
+  {
+    "id": 63,
+    "ENG": "I am lost.",
+    "TR": "Kayboldum."
+  },
+  {
+    "id": 64,
+    "ENG": "Lets keep in touch.",
+    "TR": "İletişimde kalalım."
+  },
+  {
+    "id": 65,
+    "ENG": "Mind your own business.",
+    "TR": "Kendi işine bak."
+  },
+  {
+    "id": 66,
+    "ENG": "Sooner or later",
+    "TR": "Er ya da geç."
+  },
+  {
+    "id": 67,
+    "ENG": "I promise",
+    "TR": "Söz veriyorum."
+  },
+  {
+    "id": 68,
+    "ENG": "I am proud of you!",
+    "TR": "Seninle gurur duyuyorum."
+  },
+  {
+    "id": 69,
+    "ENG": "I have a surprise for you.",
+    "TR": "Sana bir sürprizim var."
+  },
+  {
+    "id": 70,
+    "ENG": "Follow me.",
+    "TR": "Beni takip et."
+  },
+  {
+    "id": 71,
+    "ENG": "No way!",
+    "TR": "Olamaz!"
+  },
+  {
+    "id": 72,
+    "ENG": "I agree",
+    "TR": "Aynı fikirdeyim."
+  },
+  {
+    "id": 73,
+    "ENG": "Have fun.",
+    "TR": "İyi eğlenceler."
+  },
+  {
+    "id": 74,
+    "ENG": "Don't bother!",
+    "TR": "Zahmet etme."
+  },
+  {
+    "id": 75,
+    "ENG": "I am speechless.",
+    "TR": "Nutkum tutuldu."
+  },
+  {
+    "id": 76,
+    "ENG": "Happy Eid!",
+    "TR": "İyi bayramlar!"
+  },
+  {
+    "id": 77,
+    "ENG": "Keep your head held high!",
+    "TR": "Boynunu bükme, dik tut!"
+  },
+  {
+    "id": 78,
+    "ENG": "Keep your nose clean!",
+    "TR": "Pis işlere bulaşma!"
+  },
+  {
+    "id": 79,
+    "ENG": "Time's up!",
+    "TR": "Vakit doldu."
+  },
+  {
+    "id": 80,
+    "ENG": "Forget it!",
+    "TR": "Unut bunu!"
+  },
+  {
+    "id": 81,
+    "ENG": "Forgive me!",
+    "TR": "Affet beni!"
+  },
+  {
+    "id": 82,
+    "ENG": "Dont move!",
+    "TR": "Kımıldama!"
+  },
+  {
+    "id": 83,
+    "ENG": "Dont worry!",
+    "TR": "Endişelenme!"
+  },
+  {
+    "id": 84,
+    "ENG": "Dont touch!",
+    "TR": "Dokunma!"
+  },
+  {
+    "id": 85,
+    "ENG": "Enjoy your meal!",
+    "TR": "Afiyet olsun."
+  },
+  {
+    "id": 86,
+    "ENG": "Enjoy yourself!",
+    "TR": "Keyfine bak!"
+  },
+  {
+    "id": 87,
+    "ENG": "Have nice time!",
+    "TR": "İyi eğlenceler."
+  },
+  {
+    "id": 88,
+    "ENG": "Bless you!",
+    "TR": "Çok yaşa!"
+  },
+  {
+    "id": 89,
+    "ENG": "Bottoms up!",
+    "TR": "Şerefe!"
+  },
+  {
+    "id": 90,
+    "ENG": "Cheer up!",
+    "TR": "Neşelen!"
+  },
+  {
+    "id": 91,
+    "ENG": "Come on!",
+    "TR": "Neşelen!"
+  },
+  {
+    "id": 92,
+    "ENG": "Be quit!",
+    "TR": "Sessiz ol!"
+  },
+  {
+    "id": 93,
+    "ENG": "Be calm!",
+    "TR": "Sakin ol!"
+  },
+  {
+    "id": 94,
+    "ENG": "Be careful",
+    "TR": "Dikkatli ol!"
+  },
+  {
+    "id": 95,
+    "ENG": "Be patient!",
+    "TR": "Sabırlı ol!"
+  },
+  {
+    "id": 96,
+    "ENG": "After you!",
+    "TR": "Senden sonra!"
+  },
+  {
+    "id": 97,
+    "ENG": "Allow me!",
+    "TR": "İzin ver!"
+  },
+  {
+    "id": 98,
+    "ENG": "As for me",
+    "TR": "Bence"
+  },
+  {
+    "id": 99,
+    "ENG": "How terrifying!",
+    "TR": "Nasıl ürkütücü!"
+  },
+  {
+    "id": 100,
+    "ENG": "I have no choice!",
+    "TR": "Bir seçeneğim yok!"
+  },
+  {
+    "id": 101,
+    "ENG": "What a shame!",
+    "TR": "Yazıklar olsun!"
+  },
+  {
+    "id": 102,
+    "ENG": "It is on me!",
+    "TR": "Benden olsun (Ismarlama)"
+  },
+  {
+    "id": 103,
+    "ENG": "Maybe not!",
+    "TR": "Olmayabilir!"
+  },
+  {
+    "id": 104,
+    "ENG": "Don't mention!",
+    "TR": "Lafı, sözü bile edilmez!"
+  },
+  {
+    "id": 105,
+    "ENG": "All aboard!",
+    "TR": "Herkes binsin! (Arabaya, gemiye, trene vs…)"
+  },
+  {
+    "id": 106,
+    "ENG": "Imagine!",
+    "TR": "Hayal et!"
+  },
+  {
+    "id": 107,
+    "ENG": "If anything happens, give me call!",
+    "TR": "Bir şey olursa bir alo de!"
+  },
+  {
+    "id": 108,
+    "ENG": "If not…",
+    "TR": "Eğer olmazsa, eğer öyle değilse…"
+  },
+  {
+    "id": 109,
+    "ENG": "Take a rest!",
+    "TR": "Dinlenmek!"
+  },
+  {
+    "id": 110,
+    "ENG": "Keep in touch!",
+    "TR": "İletişimde kalalım!"
+  },
+  {
+    "id": 111,
+    "ENG": "Keep in your mind!",
+    "TR": "Aklında bulunsun!"
+  },
+  {
+    "id": 112,
+    "ENG": "Keep doing!",
+    "TR": "Yapmaya devam et!"
+  },
+  {
+    "id": 113,
+    "ENG": "Keep going!",
+    "TR": "İlerlemeye devam et!"
+  },
+  {
+    "id": 114,
+    "ENG": "Have a nice sleep!",
+    "TR": "İyi uykular!"
+  },
+  {
+    "id": 115,
+    "ENG": "Come here!",
+    "TR": "Buraya gel!"
+  },
+  {
+    "id": 116,
+    "ENG": "Once a day, Twice a day, Three times a day",
+    "TR": "Günde bir kez, Günde iki kez, Günde üç kez"
+  },
+  {
+    "id": 117,
+    "ENG": "Let me guess!",
+    "TR": "Dur tahmin edelim!"
+  },
+  {
+    "id": 118,
+    "ENG": "Just a moment!",
+    "TR": "Bir dakika!"
+  },
+  {
+    "id": 119,
+    "ENG": "Not yet!",
+    "TR": "Henüz değil!"
+  },
+  {
+    "id": 120,
+    "ENG": "Have a heart!",
+    "TR": "İnsaf be!, insafın kurusun!"
+  },
+  {
+    "id": 121,
+    "ENG": "But, if it doesn't?",
+    "TR": "Olmazsa ne olacak?"
+  },
+  {
+    "id": 122,
+    "ENG": "Try again!",
+    "TR": "Tekrar dene!"
+  },
+  {
+    "id": 123,
+    "ENG": "Give me break!",
+    "TR": "Rahat bırak!"
+  },
+  {
+    "id": 124,
+    "ENG": "I dont know If I can!",
+    "TR": "Yapıp yapamayacağımı bilmiyorum!"
+  },
+  {
+    "id": 125,
+    "ENG": "How strange!",
+    "TR": "Ne tuhaf!"
+  },
+  {
+    "id": 126,
+    "ENG": "Let it be!",
+    "TR": "Bırak olsun!"
+  },
+  {
+    "id": 127,
+    "ENG": "I hope that",
+    "TR": "Bunu umuyorum."
+  },
+  {
+    "id": 128,
+    "ENG": "You think so",
+    "TR": "Böyle mi düşünüyorsun!"
+  },
+  {
+    "id": 129,
+    "ENG": "I think so!",
+    "TR": "Böyle düşünüyorum."
+  },
+  {
+    "id": 130,
+    "ENG": "I dont mind!",
+    "TR": "Umrumda değil!"
+  },
+  {
+    "id": 131,
+    "ENG": "More or less.",
+    "TR": "Aşağı yukarı."
+  },
+  {
+    "id": 132,
+    "ENG": "Never mind!",
+    "TR": "Unut gitsin."
+  },
+  {
+    "id": 133,
+    "ENG": "Why not?",
+    "TR": "Neden olmasın!"
+  },
+  {
+    "id": 134,
+    "ENG": "If I were you…",
+    "TR": "Eğer yerinde olsaydım…"
+  },
+  {
+    "id": 135,
+    "ENG": "Give me an opinion!",
+    "TR": "Fikir ver bana!"
+  },
+  {
+    "id": 136,
+    "ENG": "Keep your chin up!",
+    "TR": "Başını dik tut, metin ol!"
+  },
+  {
+    "id": 137,
+    "ENG": "Easy does it!",
+    "TR": "Acelet etme, yavaş."
+  },
+  {
+    "id": 138,
+    "ENG": "Give me a chance!",
+    "TR": "Bir şans ver bana!"
+  },
+  {
+    "id": 139,
+    "ENG": "Give me hug!",
+    "TR": "Sarıl bana!"
+  },
+  {
+    "id": 140,
+    "ENG": "What is wrong with you?",
+    "TR": "Neyin var, sorunun nedir?"
+  },
+  {
+    "id": 141,
+    "ENG": "I guess…",
+    "TR": "Tahminimce.."
+  },
+  {
+    "id": 142,
+    "ENG": "I think",
+    "TR": "Bence"
+  },
+  {
+    "id": 143,
+    "ENG": "In my opinion",
+    "TR": "Benim fikrimce"
+  },
+  {
+    "id": 144,
+    "ENG": "I mean",
+    "TR": "Demek istediğim, kastettiğim…"
+  },
+  {
+    "id": 145,
+    "ENG": "In the fact",
+    "TR": "Aslında olan…"
+  },
+  {
+    "id": 146,
+    "ENG": "Not so great",
+    "TR": "O kadar da iyi değil!"
+  },
+  {
+    "id": 147,
+    "ENG": "I cant take it anymore!",
+    "TR": "Daha fazla dayanamıyorum."
+  },
+  {
+    "id": 148,
+    "ENG": "Not a chance!",
+    "TR": "Şansın yok!"
+  },
+  {
+    "id": 149,
+    "ENG": "I wish, I had…",
+    "TR": "Keşke Olsaydı…"
+  },
+  {
+    "id": 150,
+    "ENG": "Make sure!",
+    "TR": "Emin ol!"
+  },
+  {
+    "id": 151,
+    "ENG": "I'm back!",
+    "TR": "Geri geldim."
+  },
+  {
+    "id": 152,
+    "ENG": "What happened?",
+    "TR": "Ne oldu?"
+  },
+  {
+    "id": 153,
+    "ENG": "Are you there?",
+    "TR": "Orda mısın?"
+  },
+  {
+    "id": 154,
+    "ENG": "Come off it!",
+    "TR": "Bırak bu işleri, vazgeç!"
+  },
+  {
+    "id": 155,
+    "ENG": "Don't get me wrong!",
+    "TR": "Beni yanlış anlama!"
+  },
+  {
+    "id": 156,
+    "ENG": "Got it?",
+    "TR": "Anladın mı?"
+  },
+  {
+    "id": 157,
+    "ENG": "No way!",
+    "TR": "Olamaz!"
+  },
+  {
+    "id": 158,
+    "ENG": "I'm broke!",
+    "TR": "Parasızım, çulsuzum!"
+  },
+  {
+    "id": 159,
+    "ENG": "I suppose so!",
+    "TR": "Sanırım öyle!"
+  },
+  {
+    "id": 160,
+    "ENG": "So be it!",
+    "TR": "Peki,öyle olsun!"
+  },
+  {
+    "id": 161,
+    "ENG": "I agree!",
+    "TR": "Kabul ediyorum."
+  },
+  {
+    "id": 162,
+    "ENG": "I promise!",
+    "TR": "Söz veriyorum!"
+  },
+  {
+    "id": 163,
+    "ENG": "Put on the break!",
+    "TR": "Hoop! Frene bas!"
+  },
+  {
+    "id": 164,
+    "ENG": "Try again!",
+    "TR": "Tekrar dene!"
+  },
+  {
+    "id": 165,
+    "ENG": "Get out of my life!",
+    "TR": "Hayatımdan defol!"
+  },
+  {
+    "id": 166,
+    "ENG": "You reckon!",
+    "TR": "Sen öyle san!"
+  },
+  {
+    "id": 167,
+    "ENG": "You hear that?",
+    "TR": "Bunu duydun mu?"
+  },
+  {
+    "id": 168,
+    "ENG": "One more time!",
+    "TR": "Bir kez daha!"
+  },
+  {
+    "id": 169,
+    "ENG": "No one knows where I am!",
+    "TR": "Kimse nerede olduğumu bilmiyor!"
+  },
+  {
+    "id": 170,
+    "ENG": "No one knows who I am!",
+    "TR": "Kimse kim olduğumu bilmiyor."
+  },
+  {
+    "id": 171,
+    "ENG": "No one knows!",
+    "TR": "Kimse bilemez!"
+  },
+  {
+    "id": 172,
+    "ENG": "You are always on my mind!",
+    "TR": "Her zaman aklımdasın"
+  },
+  {
+    "id": 173,
+    "ENG": "You are nuts!",
+    "TR": "Delinin tekisin!"
+  },
+  {
+    "id": 174,
+    "ENG": "Never give up!",
+    "TR": "Asla vazgeçme!"
+  },
+  {
+    "id": 175,
+    "ENG": "Let me know.",
+    "TR": "Haberdar et."
+  },
+  {
+    "id": 176,
+    "ENG": "Dont move!",
+    "TR": "Kımıldama!"
+  },
+  {
+    "id": 177,
+    "ENG": "Keep it up!",
+    "TR": "Devam et!"
+  },
+  {
+    "id": 178,
+    "ENG": "Keep your promise!",
+    "TR": "Sözünü tut!"
+  },
+  {
+    "id": 179,
+    "ENG": "Give me five!",
+    "TR": "Çak bir beşlik!"
+  },
+  {
+    "id": 180,
+    "ENG": "Never again!",
+    "TR": "Bir daha asla!"
+  },
+  {
+    "id": 181,
+    "ENG": "Never mind!",
+    "TR": "Salla gitsin."
+  },
+  {
+    "id": 182,
+    "ENG": "What else?",
+    "TR": "Başka?"
+  },
+  {
+    "id": 183,
+    "ENG": "Of course!",
+    "TR": "Tabi ki…"
+  },
+  {
+    "id": 184,
+    "ENG": "Who cares?",
+    "TR": "Kimin umurunda?"
+  },
+  {
+    "id": 185,
+    "ENG": "Enough is enough!",
+    "TR": "Yeter artık yeter!"
+  },
+  {
+    "id": 186,
+    "ENG": "Follow me.",
+    "TR": "Takip et beni."
+  },
+  {
+    "id": 187,
+    "ENG": "Good luck!",
+    "TR": "İyi şanslar."
+  },
+  {
+    "id": 188,
+    "ENG": "Best wishes!",
+    "TR": "En iyi dileklerimle!"
+  },
+  {
+    "id": 189,
+    "ENG": "Are you full",
+    "TR": "Doydun mu?"
+  },
+  {
+    "id": 190,
+    "ENG": "For my sake.",
+    "TR": "Hatırım için."
+  },
+  {
+    "id": 191,
+    "ENG": "For what?",
+    "TR": "Ne için?"
+  },
+  {
+    "id": 192,
+    "ENG": "I just made it!",
+    "TR": "Şimdi yaptım."
+  },
+  {
+    "id": 193,
+    "ENG": "I know what I said",
+    "TR": "Ne dediğimi biliyorum."
+  },
+  {
+    "id": 194,
+    "ENG": "I'll back soon.",
+    "TR": "Çok yakın zamanda geri döneceğim."
+  },
+  {
+    "id": 195,
+    "ENG": "I'm in a hurry!",
+    "TR": "Acelem var."
+  },
+  {
+    "id": 196,
+    "ENG": "I'm in a hurry!",
+    "TR": "Acelem var."
+  },
+  {
+    "id": 197,
+    "ENG": "It really takes time",
+    "TR": "Bu gerçekten zaman alır."
+  },
+  {
+    "id": 198,
+    "ENG": "It seems all right",
+    "TR": "Tamam gibi gözüküyor."
+  },
+  {
+    "id": 199,
+    "ENG": "Slow down!",
+    "TR": "Yavaşla."
+  },
+  {
+    "id": 200,
+    "ENG": "Stop making such a noise",
+    "TR": "Gürültü yapmayı kes."
+  },
+  {
+    "id": 201,
+    "ENG": "That’s all!",
+    "TR": "Hepsi bu, bu kadar."
+  },
+  {
+    "id": 202,
+    "ENG": "So far so good!",
+    "TR": "Şimdilik her şey yolunda!"
+  },
+  {
+    "id": 203,
+    "ENG": "Think it over!",
+    "TR": "İyi düşün."
+  },
+  {
+    "id": 204,
+    "ENG": "You bet!",
+    "TR": "Tabi ki."
+  },
+  {
+    "id": 205,
+    "ENG": "Here we go.",
+    "TR": "Gidiyoruz, başlıyoruz."
+  },
+  {
+    "id": 206,
+    "ENG": "Check it out",
+    "TR": "İzleyelim, bakalım."
+  },
+  {
+    "id": 207,
+    "ENG": "Shame on you",
+    "TR": "Utanmalısın, utan!"
+  },
+  {
+    "id": 208,
+    "ENG": "By the way",
+    "TR": "Bu arada"
+  },
+  {
+    "id": 209,
+    "ENG": "Excuse Me?",
+    "TR": "Bakar mısınız?"
+  },
+  {
+    "id": 210,
+    "ENG": "In other words",
+    "TR": "Başka bir deyişle…"
+  },
+  {
+    "id": 211,
+    "ENG": "I have no choice",
+    "TR": "Başka seçeneğim yok."
+  },
+  {
+    "id": 212,
+    "ENG": "How terrifying!",
+    "TR": "Ne kadar korkutucu!"
+  },
+  {
+    "id": 213,
+    "ENG": "I had no choice!",
+    "TR": "Başka seçeneğim yoktu!"
+  },
+  {
+    "id": 214,
+    "ENG": "Keep move on",
+    "TR": "Devam et"
+  },
+  {
+    "id": 215,
+    "ENG": "Keep your eyes open",
+    "TR": "Gözlerini aç"
+  },
+  {
+    "id": 216,
+    "ENG": "Think it over",
+    "TR": "Bunu bir düşün."
+  },
+  {
+    "id": 217,
+    "ENG": "Keep it simple",
+    "TR": "Basit tut!"
+  },
+  {
+    "id": 218,
+    "ENG": "No be like that!",
+    "TR": "Böyle olma!"
+  },
+  {
+    "id": 219,
+    "ENG": "Take over responsibility!",
+    "TR": "Sorumluluk al!"
+  },
+  {
+    "id": 220,
+    "ENG": "Make up your mind!",
+    "TR": "Karar ver!"
+  },
+  {
+    "id": 221,
+    "ENG": "Come down",
+    "TR": "Aşağıya in!"
+  },
+  {
+    "id": 222,
+    "ENG": "I will do my best!",
+    "TR": "Elimden gelenin en iyisini yapacağım!"
+  },
+  {
+    "id": 223,
+    "ENG": "Let's be clear!",
+    "TR": "Açık olalım!"
+  },
+  {
+    "id": 224,
+    "ENG": "This way",
+    "TR": "Bu taraftan"
+  },
+  {
+    "id": 225,
+    "ENG": "Never say never!",
+    "TR": "Asla, asla deme!"
+  },
+  {
+    "id": 226,
+    "ENG": "Be safe",
+    "TR": "Güvende ol!"
+  },
+  {
+    "id": 227,
+    "ENG": "Stay safe!",
+    "TR": "Güvende kal!"
+  },
+  {
+    "id": 228,
+    "ENG": "Look around you!",
+    "TR": "Etrafına bak!"
+  },
+  {
+    "id": 229,
+    "ENG": "Do you need something else?",
+    "TR": "Başka bir şeye ihtiyacın var mı?"
+  },
+  {
+    "id": 230,
+    "ENG": "Go see!",
+    "TR": "Git gör! - Git bak!"
+  },
+  {
+    "id": 231,
+    "ENG": "Go away!",
+    "TR": "Git başımdan!"
+  },
+  {
+    "id": 232,
+    "ENG": "For what?",
+    "TR": "Ne için?"
+  },
+  {
+    "id": 233,
+    "ENG": "Breathe in and out!",
+    "TR": "Nefes al, nefes ver!"
+  },
+  {
+    "id": 234,
+    "ENG": "There has been a mistake!",
+    "TR": "Bir yanlışlık olmuş!"
+  },
+  {
+    "id": 235,
+    "ENG": "I think not!",
+    "TR": "Bence değil, olmaz!"
+  },
+  {
+    "id": 236,
+    "ENG": "I am nobody’s slave!",
+    "TR": "Kimsenin kölesi değilim!"
+  },
+  {
+    "id": 237,
+    "ENG": "Go on without me!",
+    "TR": "Bensiz devam edin!"
+  },
+  {
+    "id": 238,
+    "ENG": "Stop the cap!",
+    "TR": "Taksiyi durdur!"
+  },
+  {
+    "id": 239,
+    "ENG": "I am proud of you!",
+    "TR": "Seninle gurur duyuyorum!"
+  },
+  {
+    "id": 240,
+    "ENG": "Hands up!",
+    "TR": "Eller yukarı!"
+  },
+  {
+    "id": 241,
+    "ENG": "Go away!",
+    "TR": "Defol!"
+  },
+  {
+    "id": 242,
+    "ENG": "I used to look like my mum.",
+    "TR": "Anneme benzerdim."
+  },
+  {
+    "id": 243,
+    "ENG": "Are you free this evening?",
+    "TR": "Bu akşam müsait misin?"
+  },
+  {
+    "id": 244,
+    "ENG": "I’m telling you the truth!",
+    "TR": "Sana gerçeği söylüyorum!"
+  },
+  {
+    "id": 245,
+    "ENG": "I refuse!",
+    "TR": "Reddediyorum!"
+  },
+  {
+    "id": 246,
+    "ENG": "What happened?",
+    "TR": "Ne oldu?"
+  },
+  {
+    "id": 247,
+    "ENG": "What is happening?",
+    "TR": "Neler oluyor?"
+  },
+  {
+    "id": 248,
+    "ENG": "Totally my fault!",
+    "TR": "Tamamen benim suçum!"
+  },
+  {
+    "id": 249,
+    "ENG": "Enough talk!",
+    "TR": "Bu kadar konuşma yeter!"
+  },
+  {
+    "id": 250,
+    "ENG": "You don’t know anything!",
+    "TR": "Hiçbir şey bilmiyorsun!"
+  },
+  {
+    "id": 251,
+    "ENG": "Listen up!",
+    "TR": "Dinleyin!"
+  },
+  {
+    "id": 252,
+    "ENG": "I am serious!",
+    "TR": "Ben ciddiyim!"
+  },
+  {
+    "id": 253,
+    "ENG": "Bit me!",
+    "TR": "Beni ısırdı!"
+  },
+  {
+    "id": 254,
+    "ENG": "Don't thank me!",
+    "TR": "Bana teşekkür etme!"
+  },
+  {
+    "id": 255,
+    "ENG": "I fell off my bike!",
+    "TR": "Bisikletimden düştüm!"
+  },
+  {
+    "id": 256,
+    "ENG": "As it should be!",
+    "TR": "Olması gerektiği gibi!"
+  },
+  {
+    "id": 257,
+    "ENG": "Like I said",
+    "TR": "Dediğim gibi"
+  },
+  {
+    "id": 258,
+    "ENG": "Not this time",
+    "TR": "Bu kez değil"
+  },
+  {
+    "id": 259,
+    "ENG": "Don’t give up!",
+    "TR": "Vazgeçme!"
+  },
+  {
+    "id": 260,
+    "ENG": "Don’t get mad at me",
+    "TR": "Bana kızma!"
+  },
+  {
+    "id": 261,
+    "ENG": "Stay curious",
+    "TR": "Merak etmeye devam edin!"
+  },
+  {
+    "id": 262,
+    "ENG": "I am looking forward to it!",
+    "TR": "Dört gözle bekliyorum."
+  },
+  {
+    "id": 263,
+    "ENG": "What have you seen?",
+    "TR": "Ne gördün?"
+  },
+  {
+    "id": 264,
+    "ENG": "Everything happened so fast / so slow.",
+    "TR": "Her şey çok hızlı oldu."
+  },
+  {
+    "id": 265,
+    "ENG": "Over and over",
+    "TR": "Tekrar tekrar"
+  },
+  {
+    "id": 266,
+    "ENG": "Line up!",
+    "TR": "Sıraya gir!"
+  },
+  {
+    "id": 267,
+    "ENG": "My hands are tied!",
+    "TR": "Elim kolum bağlı!"
+  },
+  {
+    "id": 268,
+    "ENG": "Break a leg!",
+    "TR": "Şeytanın bacağını kır artık!"
+  },
+  {
+    "id": 269,
+    "ENG": "Out of the blue!",
+    "TR": "Durup dururken."
+  },
+  {
+    "id": 270,
+    "ENG": "It was totally out of the blue.",
+    "TR": "Tamamen beklenmedikti."
+  }
+]
